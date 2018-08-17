@@ -17,6 +17,14 @@ class Shoe
     @size
   end
   
+  def condition 
+    @condition
+  end
+  
+  def material 
+    @material
+  end
+  
   
   
   
