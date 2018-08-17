@@ -25,6 +25,8 @@ class Shoe
     @material
   end
   
+  def cobble 
+    
   
   
   
